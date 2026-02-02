@@ -43,16 +43,18 @@ The analysis is contained within a Jupyter Notebook (Titanic Survival Analysis.i
 ## **⚙️ How to Run**
 
 1. **Clone the repository:**  
-   git clone \[https://github.com/tirthzz-ctrl/Titanic-Survival-Analysis.git\](https://github.com/tirthzz-ctrl/Titanic-Survival-Analysis.git)
+   git clone
+   [\[https://github.com/tirthzz-ctrl/Titanic-Survival-Analysis.git\](https://github.com/tirthzz-ctrl/Titanic-Survival-Analysis.git)]
+   (https://github.com/tirthzz-ctrl/Titanic-Survival-Analysis)
 
-2. **Install dependencies:**  
+3. **Install dependencies:**  
    Ensure you have Python installed, then run:  
    pip install pandas numpy matplotlib seaborn scikit-learn
 
-3. **Launch the Notebook:**  
+4. **Launch the Notebook:**  
    jupyter notebook "Titanic Survival Analysis.ipynb"
 
-4. **Execute Cells:** Run the cells sequentially to reproduce the analysis and model results.
+5. **Execute Cells:** Run the cells sequentially to reproduce the analysis and model results.
 
 ## **📊 Models Used**
 
